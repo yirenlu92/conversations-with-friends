@@ -1,3 +1,8 @@
+---
+title: Emily Zhao - Transitioning from Engineering to Product
+published_at: 2023-03-04
+---
+
 ### How do you view the differences between engineering and product roles?
 
 I’m kind of unusual in that I don’t see engineering and product roles as super different. Some people might think if you're an engineer, you shouldn't be doing certain activities, or if you're a PM, you probably aren't very technical. However, I believe it's great when people can span a wide variety of skill sets and come up with unique connections and ideas that others might not think of. When knowledge is split between two people, there's always some overhead to transmitting information.
